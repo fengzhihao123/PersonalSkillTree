@@ -23,6 +23,7 @@ Personal skills tree
 * [iOS基础知识点](http://www.jianshu.com/p/64a7c9f7f6b2)
 * [iOS Interview](http://www.jianshu.com/p/b4e1e57fa137)
 * [iOS源码解读](https://github.com/Draveness/iOS-Source-Code-Analyze)
+* [iOS测试相关](https://github.com/fengzhihao123/PersonalSkillTree/blob/master/iOS/iOS%20Testing.md)
 
 
 ### Golang
